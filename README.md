@@ -1,43 +1,43 @@
 <div align="center">
 
-<img src="./assets/kareem-hero.svg" width="100%" alt="Kareem Hesham — frontend developer from Egypt" />
+# Kareem Hesham
+
+### Frontend Developer · Egypt 🇪🇬
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=520&lines=I+build+clean+web+experiences;Learning+JavaScript%2C+React+%26+Next.js;Turning+ideas+into+real+websites" alt="Animated introduction" />
 
 <br />
 
-### I turn ideas into interfaces people enjoy using.
-
-Frontend developer in Egypt · Learning JavaScript, React & Next.js
-
-<br />
-
-[![My CV](https://img.shields.io/badge/↗_EXPLORE_MY_CV-0b1220?style=for-the-badge&logoColor=white)](https://k06439841-collab.github.io/CV-kareem/)
+<a href="https://k06439841-collab.github.io/CV-kareem/">
+  <img src="https://img.shields.io/badge/VIEW_MY_CV-0E7490?style=for-the-badge" alt="View my CV" />
+</a>
 
 </div>
 
-<br />
+---
 
-## `~/about`
+## About me
 
-I care about the details that make a website feel clear, responsive, and a little more delightful. I’m building my frontend skills one project at a time, with a long-term goal of becoming a full-stack developer.
+I enjoy building clear, responsive interfaces and paying attention to the small details that make websites easier to use.
 
-## `~/currently-learning`
+- 🌍 Based in Egypt
+- 🌱 Learning JavaScript, React, and Next.js
+- 🎯 Growing toward full-stack development
+
+## What I’m learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, and CSS" />
+</p>
+
+## Featured project
+
+### [My CV website ↗](https://k06439841-collab.github.io/CV-kareem/)
+
+My personal website and a place to follow my journey as a developer.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, and CSS" />
-
-</div>
-
-## `~/featured`
-
-### [CV Kareem ↗](https://k06439841-collab.github.io/CV-kareem/)
-
-My personal CV website. Take a look at what I’m working toward.
-
-<br />
-
-<div align="center">
-
-*Currently learning. Always building.*
+*Learning by building. Improving with every project.*
 
 </div>
