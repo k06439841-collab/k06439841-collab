@@ -8,8 +8,8 @@
 
 <br />
 
-<a href="https://k06439841-collab.github.io/CV-kareem/">
-  <img src="https://img.shields.io/badge/VIEW_MY_CV-0E7490?style=for-the-badge" alt="View my CV" />
+<a href="https://k06439841-collab.github.io/portoflio/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0E7490?style=for-the-badge" alt="View my portfolio" />
 </a>
 
 </div>
@@ -26,18 +26,33 @@ I enjoy building clear, responsive interfaces and paying attention to the small 
 
 ## What I’m learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, and CSS" />
-</p>
+<div align="center">
 
-## Featured project
+<img src="https://skillicons.dev/icons?i=js,react,nextjs&theme=dark" alt="JavaScript, React, and Next.js" />
 
-### [My CV website ↗](https://k06439841-collab.github.io/CV-kareem/)
+</div>
+
+## My portfolio
+
+### [Visit my website ↗](https://k06439841-collab.github.io/portoflio/)
 
 My personal website and a place to follow my journey as a developer.
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 <div align="center">
 
 *Learning by building. Improving with every project.*
 
 </div>
+
