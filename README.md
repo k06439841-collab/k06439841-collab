@@ -1,65 +1,51 @@
-<h1 align="center">Hi 👋, I'm Kareem Hesham</h1>
+**<div align="center">
 
-<h3 align="center">
-🚀 Frontend Developer | 🇪🇬 Egypt
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22d3ee&height=210&section=header&text=Kareem%20Hesham&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Egypt&descAlignY=60&descSize=18" width="100%" alt="Kareem Hesham — Frontend Developer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Learner;UI+Lover;Always+Building+Cool+Stuff" />
-</p>
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean+and+responsive+interfaces;Learning+JavaScript%2C+React+%26+Next.js;Turning+ideas+into+real+websites)](https://git.io/typing-svg)
 
----
+<br />
 
-## 🔥 About Me
+[![View CV](https://img.shields.io/badge/🌐_VIEW_MY_CV-2563EB?style=for-the-badge)](https://k06439841-collab.github.io/CV-kareem/)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=k06439841-collab&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
 
-- 💻 Frontend Developer passionate about clean UI & UX
-- 🔭 Working on: [CV Project](https://k06439841-collab.github.io/CV-kareem/)
-- 🌱 Learning: **JavaScript | React | Next.js**
-- 🎯 Goal: Becoming a **Full Stack Developer**
-- ⚡ Fun fact: I love turning ideas into real websites
+</div>
 
----
+<br />
 
-## 🌐 Connect With Me
+## ✨ A little about me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kareem-hesham-40a039412/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```text
+🎨  I care about clean UI and a smooth user experience.
+🌱  Currently learning JavaScript, React, and Next.js.
+🎯  Growing toward full-stack development, one project at a time.
+⚡  I love turning ideas into real websites.
+```
 
-<a href="https://www.instagram.com/kareem_hesham115/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## 🧰 My current toolkit
 
-<a href="https://facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-</p>
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-learning-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-learning-ffffff?style=flat-square&logo=next.js&logoColor=111827)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,git,github,vscode" />
-</p>
+## 🚀 What I’m building
 
----
+### [My CV website ↗](https://k06439841-collab.github.io/CV-kareem/)
 
-## 📊 GitHub Stats
+A personal website introducing my background, skills, and work. I’m always learning and improving it as I grow.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### 💡 Learn · Build · Improve
 
----
+*Every project is a new chance to make something better.*
 
-## 💡 Quote
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
-<p align="center">
-<i>"Great developers are not born, they are built line by line."</i>
-</p>
+</div>
+**
