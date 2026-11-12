@@ -1,51 +1,53 @@
-**<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22d3ee&height=210&section=header&text=Kareem%20Hesham&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Egypt&descAlignY=60&descSize=18" width="100%" alt="Kareem Hesham — Frontend Developer" />
-
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean+and+responsive+interfaces;Learning+JavaScript%2C+React+%26+Next.js;Turning+ideas+into+real+websites)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:070b14,45:102a43,100:00d4ff&text=KAREEM%20HESHAM&fontColor=ffffff&fontSize=48&fontAlignY=48&animation=fadeIn" width="100%" alt="Kareem Hesham" />
 
 <br />
 
-[![View CV](https://img.shields.io/badge/🌐_VIEW_MY_CV-2563EB?style=for-the-badge)](https://k06439841-collab.github.io/CV-kareem/)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=k06439841-collab&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=56D4F2&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Frontend+Developer+%40+Egypt;Design-minded.+Always+building.;JavaScript+%E2%86%92+React+%E2%86%92+Next.js" alt="Animated introduction" />
+
+<br /><br />
+
+[**Explore my CV ↗**](https://k06439841-collab.github.io/CV-kareem/)
 
 </div>
 
 <br />
 
-## ✨ A little about me
+## `01` — The person behind the pixels
 
-```text
-🎨  I care about clean UI and a smooth user experience.
-🌱  Currently learning JavaScript, React, and Next.js.
-🎯  Growing toward full-stack development, one project at a time.
-⚡  I love turning ideas into real websites.
-```
+I’m Kareem, a frontend developer from Egypt. I’m drawn to interfaces that feel simple, clear, and satisfying to use. Right now, I’m sharpening my JavaScript skills and building toward React and Next.js.
 
-## 🧰 My current toolkit
+> **Current direction:** thoughtful UI · responsive layouts · steady progress toward full stack
+
+<br />
+
+## `02` — Tools on my desk
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, and CSS" />
+</p>
+
+<br />
+
+## `03` — Out in the world
+
+<a href="https://k06439841-collab.github.io/CV-kareem/">
+  <img align="right" width="250" src="https://github-readme-stats.vercel.app/api?username=k06439841-collab&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9fb3c8&icon_color=56d4f2&ring_color=56d4f2" alt="GitHub activity card" />
+</a>
+
+### [My CV website](https://k06439841-collab.github.io/CV-kareem/)
+
+My personal corner of the web—where I share my background and the work I’m growing through.
+
+<br clear="right" />
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-learning-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![Next.js](https://img.shields.io/badge/Next.js-learning-ffffff?style=flat-square&logo=next.js&logoColor=111827)
+<br />
+
+*Small details. Real progress. Better with every build.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:102a43&height=3&section=footer" width="100%" alt="" />
 
 </div>
-
-## 🚀 What I’m building
-
-### [My CV website ↗](https://k06439841-collab.github.io/CV-kareem/)
-
-A personal website introducing my background, skills, and work. I’m always learning and improving it as I grow.
-
-<div align="center">
-
-### 💡 Learn · Build · Improve
-
-*Every project is a new chance to make something better.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
-
-</div>
-**
