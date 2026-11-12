@@ -49,33 +49,4 @@ I enjoy building clear, responsive interfaces and paying attention to the small 
 | 🖥️ **Landing Page** | Responsive landing page on GitHub Pages | [Open ↗](https://k06439841-collab.github.io/-Landing-Page/) |
 | ☕ **Caffe Firouz** | Café concept site with a warm branded look | Coming soon |
 
----
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=k06439841-collab&show_icons=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k06439841-collab&layout=compact&theme=transparent&title_color=22D3EE&text_color=c9d1d9&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br />
-
-*Learning by building. Improving with every project.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0E7490&height=70&section=footer" width="100%" alt="" />
-
-</div>
