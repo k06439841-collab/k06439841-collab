@@ -56,3 +56,12 @@ My personal website and a place to follow my journey as a developer.
 
 </div>
 
+## My toolkit
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,js,git,github&theme=dark" alt="Bootstrap, Tailwind CSS, React, JavaScript, Git, and GitHub" />
+</div>
+
+<div align="center">
+Currently learning: **Next.js**
+</div>
