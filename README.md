@@ -10,9 +10,6 @@
 <a href="https://k06439841-collab.github.io/portoflio/">
   <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio" />
 </a>
-<a href="mailto:k06439841@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
-</a>
 <a href="https://www.instagram.com/kareem_hesham115/">
   <img src="https://img.shields.io/badge/INSTAGRAM-0B0F14?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram" />
 </a>
