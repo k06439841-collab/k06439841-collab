@@ -1,10 +1,18 @@
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:36BCF7&height=180&section=header&text=Kareem%20Hesham&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38"
+    alt="Kareem Hesham banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=80&amp;lines=Hi%2C+I%27m+Kareem+Hesham;Frontend+Developer;Learning+JavaScript%2C+React+%26+Next.js;Turning+ideas+into+real+websites" alt="Animated introduction" />
 </p>
 
 <div align="center">
 
-<img src="./WhatsApp%20Image%202026-11-13%20at%202.03.38%20PM.jpeg" alt="Kareem Hesham" width="500" />
+<img src="./WhatsApp%20Image%202026-11-13%20at%202.03.38%20PM.jpeg" alt="Kareem Hesham" width="500" height="250"/>
 <br /><br />
 
 <a href="https://k06439841-collab.github.io/portoflio/">
