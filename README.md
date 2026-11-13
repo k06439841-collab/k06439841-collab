@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=80&amp;lines=Kareem+Hesham;Frontend+Developer;Learning+JavaScript%2C+React+%26+Next.js;Turning+ideas+into+real+websites" alt="Animated introduction" />
+
+
 <div align="center">
 
 <img src="./WhatsApp%20Image%202026-11-13%20at%202.03.38%20PM.jpeg" alt="Kareem Hesham" width="500" />
