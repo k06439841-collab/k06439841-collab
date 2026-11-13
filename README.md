@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="![Kareem Hesham](./WhatsApp%20Image%202026-11-13%20at%202.03.38%20PM.jpeg)">
+<img src="./WhatsApp%20Image%202026-11-13%20at%202.03.38%20PM.jpeg" alt="Kareem Hesham" />
 <br /><br />
 
 <a href="https://k06439841-collab.github.io/portoflio/">
