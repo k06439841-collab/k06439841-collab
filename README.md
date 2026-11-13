@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/kareem-scene.svg" alt="Kareem Hesham - Frontend Developer, Egypt" width="100%" />
-
+<img src="assets/kareem-hero.svg">
 <br /><br />
 
 <a href="https://k06439841-collab.github.io/portoflio/">
