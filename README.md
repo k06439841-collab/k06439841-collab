@@ -50,3 +50,8 @@ I enjoy building clear, responsive interfaces and paying attention to the small 
 | ☕ **Caffe Firouz** | Café concept site with a warm branded look | Coming soon |
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/k06439841-collab/k06439841-collab/output/github-snake.svg" />
+</picture>
